@@ -10,4 +10,4 @@ Instruction:
 2. If you want more news scrapped just provide next page's url after being prompted for next URL.
 
 Thanks 
-Enjoy Your coffee with worlds most liked Tecno top news!!!
+Enjoy Your coffee with worlds most liked Techno top news!!!
